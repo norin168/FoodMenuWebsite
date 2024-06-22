@@ -1391,6 +1391,10 @@ section,
   .book-a-table .php-email-form {
     padding: 20px;
   }
+
+  .menu .tab-content .menu-item {
+    text-align-last: center;
+  }
 }
 
 .book-a-table .php-email-form .error-message {
